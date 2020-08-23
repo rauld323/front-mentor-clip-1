@@ -1,0 +1,29 @@
+
+body{
+    font-family: 'Bai Jamjuree';
+    font-size: 18px;
+    font-weight: 400, 600;
+}
+.intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+}
+.intro-pic{
+    background-image: url('/front-mentor-clip-1/img/bg-header-mobile.png');
+    height: 300px;
+    width: 360px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.intro-text{
+ height: 230px;
+ width: 300px;
+ border: 10px, 10px, 10px,10px;
+ display: flex;
+ justify-content: center;
+ flex-flow: row wrap;
+text-align: center;
+}
