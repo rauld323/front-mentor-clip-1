@@ -9,7 +9,7 @@ body{
     align-items: center;
     flex-flow: row wrap;
     height: 736px;
-    margin-bottom: 370px;
+    margin-bottom: 150px;
 }
 .intro-pic{
     background-image: url('/front-mentor-clip-1/img/bg-header-mobile.png');
@@ -43,3 +43,14 @@ body{
     -moz-box-shadow: -3px 9px 8px -5px rgba(0,0,0,0.75);
     box-shadow: -3px 9px 8px -5px rgba(0,0,0,0.75);
 }
+.fea-services{
+    margin-top: 50px;
+}
+.fea-picture{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.computer-img{
+    width: 100%;
+}
+
