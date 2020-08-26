@@ -46,6 +46,7 @@ body{
 /* Features Section */
 .features{
     text-align: center;
+    margin-bottom: 170px;
 }
 .fea-intro{
     margin-left: 27px;
@@ -68,4 +69,19 @@ body{
 }
 .feature{
     width: 80%;
+}
+.access{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    align-items: center;
+    text-align: center;
+}
+.access-text{
+    width: 85%;
+}
+.access-picture{
+   margin-top: 40px;
+   width: 100%;
 }
