@@ -2,6 +2,7 @@ body{
     font-family: 'Bai Jamjuree';
     font-weight: 400, 600;
     font-family: 'Bai Jamjuree', sans-serif;
+     
 }
 .intro{
     display: flex;
@@ -10,9 +11,11 @@ body{
     flex-flow: row wrap;
     height: 736px;
     margin-bottom: 150px;
+    background-image: url('/front-mentor-clip-1/img/bg-header-mobile.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 .intro-pic{
-    background-image: url('/front-mentor-clip-1/img/bg-header-mobile.png');
     height: 250px;
     width: 360px;
     display: flex;
@@ -84,4 +87,17 @@ body{
 .access-picture{
    margin-top: 40px;
    width: 100%;
+}
+
+/* Workflow sectiom */
+.workflow{
+    text-align: center;
+    margin-left: 27px;
+    margin-right: 27px;
+    margin-bottom: 65px;
+}
+.workflow-sec{
+    text-align: center;
+    margin-left: 27px;
+    margin-right: 27px;
 }
